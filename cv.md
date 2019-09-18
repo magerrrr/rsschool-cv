@@ -74,3 +74,7 @@ Learn.javascript.ru | MDN | Codecademy | Htmlacademy.ru | Codewars
 
 **Books:**
 Grokking Algorithms (Aditya Bhargava) | JS and JQuery (Jon Duckett)
+
+### ENGLISH
+English **A2+ **| Russian **Native**
+The practice of English lasted all my studies at school, then at college and at university. I also took courses (2 years while studying at school, then 1 year while studying at university) + practice while traveling (UK, Spain, Greece, Poland, etc.) + reading different documentation and websites in English + books + communication with people from other countries (Sweden, UK, USA and some other) + Lingualeo + English films with subtitles
