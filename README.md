@@ -1,1 +1,1 @@
-:necktie::page_facing_up: [My CV is stored here](https://magerrrr.github.io/rsschool-cv/)
+:necktie::page_facing_up: [My CV is stored here](https://magerrrr.github.io/rsschool-cv/cv)
