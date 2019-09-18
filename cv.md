@@ -19,7 +19,7 @@ I learned hardware At the Higher College of Radio Engineering for 4 years. Then 
 5. BEM methodology;
 6. Pixel perfect;
 7. WebStorm, VS Code, Sublime;
-8. Clean and valid code, 
+8. Clean and valid code;
 9. SEO-optimized code, semantic core, good knowledge about optimizing page loading speed;
 10. My goal is to do the job perfectly. if I have difficulties - I will challenge and win them!
 
@@ -34,9 +34,41 @@ In my GitHub, I have old tasks from RS 2018 + Currently, I am working with 2 pro
 - JS Module for visualization Data to Charts (Google Charts API at work);
 - JS Module for convert biomarkers;
 - C-language Module for convert biomarkers; 
-- C++ Module for convert biomarkers;
+- C++ Module for convert biomarkers.
 
 ------------
 **Work:**
 - many 1C-Bitrix sites, and modules;
-- learn a lot of new information about Testing, DB, Git, SEO and then I started to learn React
+- learn a lot of new information about Testing, DB, Git, SEO and then I started to learn React.
+
+### EDUCATION & QUALIFICATIONS:
+**Education:**
+
+|  Year | Name of educational Institution  | Degree |
+| :------------: | :------------ |  :------------: |
+| 2010 - 2014  | Minsk State Higher College of Radio Engineering (Electronic Computing Tools) Electronics specialist  | Specialized secondary ed. |
+| 2014 - 2018 |  Belarusian State University Of Informatics and Radioelectronics Professional education (computer science) | Bachelor of Engineering |
+| 2018 - 2020  | Belarusian State University Of Informatics and Radioelectronics Engineering psychology and ergonomics -- IT Engineering  | Master's degree |
+**Courses:**
+
+|  Year | Name of course  | Degree |
+| :------------: | :------------ |  :------------: |
+| 2009 - 2010  | English course (A2+- B1) | Certificate |
+| 2011 |  Computer design in Advertising (Adobe Photoshop, Illustrator; CorelDrow)| Certificate | 
+| 2012  | Photo/video processing and production in Advertising  | Certificate |
+| 2013  | Computer administration and data security  | Certificate |
+| 2014  | PHP course  | Certificate |
+| 2017 - 2018  | English course (Polyglot)  | Certificate |
+| 2018  | Rolling Scopes School (25%)  | knowledge only |
+**Seminars, lectures:**
+- SEF2STUDENTS (science 2012), 
+- Mobile Optimized Conference 2017,2018, 
+- New adventures in Front-End by Vitaly Friedman, 
+- Open Data Science Meetup, 
+- RS Summer summit 2018 and etc.
+
+**Online education:**
+Learn.javascript.ru | MDN | Codecademy | Htmlacademy.ru | Codewars
+
+**Books:**
+Grokking Algorithms (Aditya Bhargava) | JS and JQuery (Jon Duckett)
