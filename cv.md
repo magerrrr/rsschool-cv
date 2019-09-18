@@ -22,3 +22,6 @@ I learned hardware At the Higher College of Radio Engineering for 4 years. Then 
 8. Clean and valid code, 
 9. SEO-optimized code, semantic core, good knowledge about optimizing page loading speed;
 10. My goal is to do the job perfectly. if I have difficulties - I will challenge and win them!
+
+### CODE
+In my GitHub, I have old tasks from RS 2018 + Currently, I am working with 2 projects and unfortunately, I can't share my code.
