@@ -9,10 +9,10 @@
 ### SUMMARY
 I really love Tech - Dev and design. I have devoted 10 years to have special education in all these areas.
 
-I learned hardware At the Higher College of Radio Engineering for 4 years. Then at the University of Informatics and Radioelectronics I learned software for 4 years. For the past 2 years, I have continued my master's program in the field of Engineering Psychology and Ergonomics (UI/UX) (since September 2018)
+I learned hardware At the Higher College of Radio Engineering for 4 years. Then at the University of Informatics and Radioelectronics I learned software for 4 years. For the past 2 years, I have continued my master's program in the field of Engineering Psychology and Ergonomics (UI/UX) (since September 2018).
 
 ### SKILLS
-1. Great knowledge and long experience working with design: Photoshop (since 2012), Sketch (since 2017), sometimes Illustrator and recently Figma.
+1. Great knowledge and long experience working with design: Photoshop (since 2012), Sketch (since 2017), sometimes Illustrator and recently Figma;
 2. Good base of HTML5, CSS3, JavaScript;
 3. Work experience with Git, Parcel/Gulp/Webpack, SASS/LESS;
 4. Strong knowledge of responsive/adaptive design and flexbox;
@@ -55,7 +55,7 @@ In my GitHub, I have old tasks from RS 2018 + Currently, I am working with 2 pro
 |  Year | Name of course  | Degree |
 | :------------: | :------------ |  :------------: |
 | 2009 - 2010  | English course (A2+- B1) | Certificate |
-| 2011 |  Computer design in Advertising (Adobe Photoshop, Illustrator; CorelDrow)| Certificate | 
+| 2011 |  Computer design in Advertising (Adobe Photoshop, Illustrator; CorelDraw)| Certificate | 
 | 2012  | Photo/video processing and production in Advertising  | Certificate |
 | 2013  | Computer administration and data security  | Certificate |
 | 2014  | PHP course  | Certificate |
@@ -63,14 +63,14 @@ In my GitHub, I have old tasks from RS 2018 + Currently, I am working with 2 pro
 | 2018  | Rolling Scopes School (25%)  | knowledge only |
 
 **Seminars, lectures:**
-- SEF2STUDENTS (science 2012), 
-- Mobile Optimized Conference 2017,2018, 
-- New adventures in Front-End by Vitaly Friedman, 
-- Open Data Science Meetup, 
+- SEF2STUDENTS (science 2012); 
+- Mobile Optimized Conference 2017,2018; 
+- New adventures in Front-End by Vitaly Friedman; 
+- Open Data Science Meetup; 
 - RS Summer summit 2018 and etc.
 
 **Online education:**
-Learn.javascript.ru | MDN | Codecademy | Htmlacademy.ru | Codewars
+Learn.javascript.ru | MDN | Codecademy | Htmlacademy | Codewars
 
 **Books:**
 Grokking Algorithms (Aditya Bhargava) | JS and JQuery (Jon Duckett)
