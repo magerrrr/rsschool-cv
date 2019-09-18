@@ -25,3 +25,18 @@ I learned hardware At the Higher College of Radio Engineering for 4 years. Then 
 
 ### CODE
 In my GitHub, I have old tasks from RS 2018 + Currently, I am working with 2 projects and unfortunately, I can't share my code.
+
+### EXPERIENCE
+**Freelance:**
+- 3 web-sites: medkurort, wellnesstravel, 360studio (CMS/HTML/CSS + design: logo and different items for print);
+- 5 general works at University: music tagger (Angular), 3 Landing Pages and 1 App (C# + MySQL);
+- 1 course work "Training web-application for preparing for the tournament in Russian billiards" (JS, Node.js, MongoDB + design); 
+- JS Module for visualization Data to Charts (Google Charts API at work);
+- JS Module for convert biomarkers;
+- C-language Module for convert biomarkers; 
+- C++ Module for convert biomarkers;
+
+------------
+**Work:**
+- many 1C-Bitrix sites, and modules;
+- learn a lot of new information about Testing, DB, Git, SEO and then I started to learn React
