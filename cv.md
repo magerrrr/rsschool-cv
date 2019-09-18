@@ -49,6 +49,7 @@ In my GitHub, I have old tasks from RS 2018 + Currently, I am working with 2 pro
 | 2010 - 2014  | Minsk State Higher College of Radio Engineering (Electronic Computing Tools) Electronics specialist  | Specialized secondary ed. |
 | 2014 - 2018 |  Belarusian State University Of Informatics and Radioelectronics Professional education (computer science) | Bachelor of Engineering |
 | 2018 - 2020  | Belarusian State University Of Informatics and Radioelectronics Engineering psychology and ergonomics -- IT Engineering  | Master's degree |
+
 **Courses:**
 
 |  Year | Name of course  | Degree |
@@ -60,6 +61,7 @@ In my GitHub, I have old tasks from RS 2018 + Currently, I am working with 2 pro
 | 2014  | PHP course  | Certificate |
 | 2017 - 2018  | English course (Polyglot)  | Certificate |
 | 2018  | Rolling Scopes School (25%)  | knowledge only |
+
 **Seminars, lectures:**
 - SEF2STUDENTS (science 2012), 
 - Mobile Optimized Conference 2017,2018, 
