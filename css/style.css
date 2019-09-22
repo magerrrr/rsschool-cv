@@ -29,7 +29,7 @@ body {
     padding-bottom: 30px;
 }
 .section-summary-title{
-    font-style: 36px;
+    font-size: 18px;
     font-weight: bold;
 }
 .section-summary-subtitle{
@@ -42,10 +42,66 @@ body {
     padding-bottom: 30px;
 }
 .section-skills-title{
-    font-style: 36px;
+    font-size: 18px;
     font-weight: bold;
 }
 .section-skills-subtitle{
+    text-align: justify;
+    margin: 0 130px;
+}
+
+.section-code{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.section-code-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.section-code-subtitle{
+    text-align: justify;
+    margin: 0 150px;
+}
+
+.section-experience{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.section-experience-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.section-experience-subtitle{
+    text-align: justify;
+    margin: 0 130px;
+}
+
+
+.section-education{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.section-education-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.section-education-subtitle{
+    text-align: left;
+    margin: 0 130px;
+}
+.section-education-subtitle ul{
+    list-style: none;
+}
+
+.section-english{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.section-english-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.section-english-subtitle{
     text-align: justify;
     margin: 0 130px;
 }
