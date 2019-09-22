@@ -14,7 +14,7 @@ body {
     background-color: #f6fafd;
 }
 .section-header-img{
-    align-self: flex-end;
+    align-self: center;
 
 }
 .section-header-content{
@@ -22,86 +22,231 @@ body {
     margin: 0 auto;
     font-size: 30px;
     font-weight: bold;
-}
 
-.section-summary{
-    padding-top: 30px;
-    padding-bottom: 30px;
+}
+.section-inner-info{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
+}
+.section-info-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: bold;
+    background-color: #f6fafd;       
+}
+.section-info-subtitle{
+    width: 524px;
+    padding: 10px;
+    align-self: center;
+    text-align: justify;
+    background-color: #f6fafd;
+}
+.section-info-subtitle ul{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+.section-info-subtitle li{
+    
+    line-height: 30px;
+}
+.section-inner-summary{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
 }
 .section-summary-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
     font-size: 18px;
+    line-height: 24px;
     font-weight: bold;
+    background-color: #f6fafd;       
 }
 .section-summary-subtitle{
+    width: 524px;
+    line-height: 24px;
+    padding: 10px;
+    align-self: center;
     text-align: justify;
-    margin: 0 130px;
+    background-color: #f6fafd;
 }
-
-.section-skills{
-    padding-top: 30px;
-    padding-bottom: 30px;
+.section-inner-skills{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
 }
 .section-skills-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
     font-size: 18px;
+    line-height: 24px;
     font-weight: bold;
+    background-color: #f6fafd;       
 }
 .section-skills-subtitle{
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
     text-align: justify;
-    margin: 0 130px;
+    background-color: #f6fafd;
+    display: flex;
 }
-
-.section-code{
-    padding-top: 30px;
-    padding-bottom: 30px;
+.section-skills-subtitle ol{
+margin: 0;
+padding-inline-start: 20px;
+}
+.section-inner-code{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
 }
 .section-code-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
     font-size: 18px;
+    line-height: 24px;
     font-weight: bold;
+    background-color: #f6fafd;       
 }
 .section-code-subtitle{
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
     text-align: justify;
-    margin: 0 150px;
+    background-color: #f6fafd;
+    display: flex;
 }
-
-.section-experience{
-    padding-top: 30px;
-    padding-bottom: 30px;
+.section-inner-experience{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
 }
 .section-experience-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
     font-size: 18px;
+    line-height: 24px;
     font-weight: bold;
+    background-color: #f6fafd;       
 }
 .section-experience-subtitle{
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
     text-align: justify;
-    margin: 0 130px;
+    background-color: #f6fafd;
+    display: flex;
 }
-
-
-.section-education{
-    padding-top: 30px;
-    padding-bottom: 30px;
+ul{
+    margin: 0;
+    padding-inline-start: 20px;
+}
+.section-inner-education{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
 }
 .section-education-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
     font-size: 18px;
+    line-height: 24px;
     font-weight: bold;
+    background-color: #f6fafd;       
 }
 .section-education-subtitle{
-    text-align: left;
-    margin: 0 130px;
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
+    text-align: justify;
+    background-color: #f6fafd;
+    display: flex;
 }
 .section-education-subtitle ul{
-    list-style: none;
-}
 
-.section-english{
-    padding-top: 30px;
-    padding-bottom: 30px;
+}
+.section-inner-english{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
 }
 .section-english-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
     font-size: 18px;
+    line-height: 24px;
     font-weight: bold;
+    background-color: #f6fafd;       
 }
 .section-english-subtitle{
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
     text-align: justify;
-    margin: 0 130px;
+    background-color: #f6fafd;
+    display: flex;
 }
