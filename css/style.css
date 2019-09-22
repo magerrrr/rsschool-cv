@@ -1,0 +1,252 @@
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.section-inner{
+    width: 1024px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.section-header{
+    width: 1024px;
+    margin: 0 auto;
+    background-color: #f6fafd;
+}
+.section-header-img{
+    align-self: center;
+
+}
+.section-header-content{
+    align-self: center;
+    margin: 0 auto;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.section-inner-info{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
+}
+.section-info-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: bold;
+    background-color: #f6fafd;       
+}
+.section-info-subtitle{
+    width: 524px;
+    padding: 10px;
+    align-self: center;
+    text-align: justify;
+    background-color: #f6fafd;
+}
+.section-info-subtitle ul{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+.section-info-subtitle li{
+    
+    line-height: 30px;
+}
+.section-inner-summary{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
+}
+.section-summary-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: bold;
+    background-color: #f6fafd;       
+}
+.section-summary-subtitle{
+    width: 524px;
+    line-height: 24px;
+    padding: 10px;
+    align-self: center;
+    text-align: justify;
+    background-color: #f6fafd;
+}
+.section-inner-skills{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
+}
+.section-skills-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: bold;
+    background-color: #f6fafd;       
+}
+.section-skills-subtitle{
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
+    text-align: justify;
+    background-color: #f6fafd;
+    display: flex;
+}
+.section-skills-subtitle ol{
+margin: 0;
+padding-inline-start: 20px;
+}
+.section-inner-code{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
+}
+.section-code-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: bold;
+    background-color: #f6fafd;       
+}
+.section-code-subtitle{
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
+    text-align: justify;
+    background-color: #f6fafd;
+    display: flex;
+}
+.section-inner-experience{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
+}
+.section-experience-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: bold;
+    background-color: #f6fafd;       
+}
+.section-experience-subtitle{
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
+    text-align: justify;
+    background-color: #f6fafd;
+    display: flex;
+}
+ul{
+    margin: 0;
+    padding-inline-start: 20px;
+}
+.section-inner-education{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
+}
+.section-education-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: bold;
+    background-color: #f6fafd;       
+}
+.section-education-subtitle{
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
+    text-align: justify;
+    background-color: #f6fafd;
+    display: flex;
+}
+.section-education-subtitle ul{
+
+}
+.section-inner-english{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#f6fafd;
+    border-top: 5px solid #fff;
+}
+.section-english-title{
+    flex: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: bold;
+    background-color: #f6fafd;       
+}
+.section-english-subtitle{
+    width: 524px;
+    padding: 10px;
+    line-height: 24px;
+    align-self: center;
+    text-align: justify;
+    background-color: #f6fafd;
+    display: flex;
+}
