@@ -1,3 +1,51 @@
 body {
     font-family: "Helvetica", "Arial", sans-serif;
-  }
+}
+
+.section-inner{
+    width: 1024px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.section-header{
+    width: 1024px;
+    margin: 0 auto;
+    background-color: #f6fafd;
+}
+.section-header-img{
+    align-self: flex-end;
+
+}
+.section-header-content{
+    align-self: center;
+    margin: 0 auto;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.section-summary{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.section-summary-title{
+    font-style: 36px;
+    font-weight: bold;
+}
+.section-summary-subtitle{
+    text-align: justify;
+    margin: 0 130px;
+}
+
+.section-skills{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.section-skills-title{
+    font-style: 36px;
+    font-weight: bold;
+}
+.section-skills-subtitle{
+    text-align: justify;
+    margin: 0 130px;
+}
